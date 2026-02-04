@@ -21,11 +21,11 @@ Choose **any two** of the following:
   - Lines for **median** and **population‑weighted mean**
 - **`figure-3-dumbbell-gains.pdf`**
   - Dumbbell-style comparison of life expectancy in **1952 vs 2007**
-  - **Top 8 countries per continent by life expectancy increase**
+  - **Top 3 countries per continent by life expectancy increase**
   - Labels show **years gained**
 - **`figure-4-heatmap.pdf`**
   - Heatmap of life expectancy over time
-  - **Top 12 countries per continent (by population in 2007)**
+  - **Top 5 countries per continent (by population in 2007)**
 - **`figure-5-trajectories.pdf`**
   - “Development paths” over time
   - GDP per person (log scale) vs life expectancy, with year progression
