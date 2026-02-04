@@ -29,7 +29,7 @@ Choose **any two** of the following:
 - **`figure-5-trajectories.pdf`**
   - “Development paths” over time
   - GDP per person (log scale) vs life expectancy, with year progression
-  - Each facet is a country (**top‑2 by population per continent in 2007**)
+  - Each facet is a country (**largest by population per continent in 2007**)
 
 **Data:** All figures are based on the `gapminder` dataset (from the **`gapminder` R package**).
 
